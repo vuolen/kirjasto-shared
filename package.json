@@ -1,5 +1,5 @@
 {
-  "name": "@vuolen/kirjasto-shared",
+  "name": "kirjasto-shared",
   "version": "0.0.2",
   "description": "Shared code and types",
   "main": "dist/index.js",
